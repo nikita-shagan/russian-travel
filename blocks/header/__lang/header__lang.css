@@ -1,0 +1,14 @@
+.header__lang {
+  display: flex;
+  width: 78px;
+  height: 34px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang {
+    width: 62px;
+    height: 26px;
+  }
+}
