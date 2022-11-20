@@ -1,6 +1,6 @@
 .page {
   background: #2A2C2F;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Arial', 'Georgia', 'Tahoma', sans-serif;
   color: #fff;
   padding: 28px 0 24px;
   display: grid;
