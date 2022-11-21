@@ -16,5 +16,5 @@
 2.  Подключить дополнительные шрифты
 3.  Дополнить сайт контентом
 
-Ссылка на github:
-https://github.com/nikita-shagan/russian-travel
+Ссылка на github pages:
+https://nikita-shagan.github.io/russian-travel/

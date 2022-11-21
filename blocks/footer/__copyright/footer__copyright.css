@@ -10,7 +10,8 @@
 }
 
 @media screen and (max-width: 767px) {
-  .cover__subtitle {
+  .footer__copyright {
+    padding-top: 16px;
     font-size: 14px;
     line-height: 1;
   }
